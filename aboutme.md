@@ -4,13 +4,6 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hi! My name is Olivia Hackworth. I've just graduated with a master's degree in Statistics from the University of Michigan in Ann Arbor, MI. Before that, I recieved a bachelor's degree in Mathematics with concentrations in Mathematical Biology and Statistics from St. Olaf College in Northfield, MN. Um Ya Ya!
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+When I'm not doing statistics, you might find me knitting, baking or reading. 
