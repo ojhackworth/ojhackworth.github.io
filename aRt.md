@@ -3,7 +3,6 @@ layout: page
 title: aRt
 subtitle: A page to celebrate bad R plots
 use-site-title: true
-image:~/bad_plot_1.pdf/
 ---
 
 words words words
