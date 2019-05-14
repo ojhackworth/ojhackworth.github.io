@@ -24,7 +24,7 @@ description: A virtual proof that Olivia is awesome!
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-#  Bad R Plots: "aRt"
+  Bad R Plots: "aRt"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
